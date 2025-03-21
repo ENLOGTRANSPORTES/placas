@@ -1,0 +1,742 @@
+[
+  {
+    "Id": 1,
+    "Placa": "GLS9959"
+  },
+  {
+    "Id": 2,
+    "Placa": "OXG3F27"
+  },
+  {
+    "Id": 3,
+    "Placa": "KGA1F51"
+  },
+  {
+    "Id": 4,
+    "Placa": "DUN9271"
+  },
+  {
+    "Id": 5,
+    "Placa": "BUD7F44"
+  },
+  {
+    "Id": 6,
+    "Placa": "EVX2250"
+  },
+  {
+    "Id": 7,
+    "Placa": "NDS8J33"
+  },
+  {
+    "Id": 8,
+    "Placa": "ONM8G17"
+  },
+  {
+    "Id": 9,
+    "Placa": "PQZ2B22"
+  },
+  {
+    "Id": 10,
+    "Placa": "GSH5885"
+  },
+  {
+    "Id": 11,
+    "Placa": "BTQ7741"
+  },
+  {
+    "Id": 12,
+    "Placa": "KBV4622"
+  },
+  {
+    "Id": 13,
+    "Placa": "KBG6242"
+  },
+  {
+    "Id": 14,
+    "Placa": "CFQ7925"
+  },
+  {
+    "Id": 15,
+    "Placa": "MBH5B91"
+  },
+  {
+    "Id": 16,
+    "Placa": "GVE8378"
+  },
+  {
+    "Id": 17,
+    "Placa": "GXM2547"
+  },
+  {
+    "Id": 18,
+    "Placa": "JKW1869"
+  },
+  {
+    "Id": 19,
+    "Placa": "MUH5C57"
+  },
+  {
+    "Id": 20,
+    "Placa": "PUG1274"
+  },
+  {
+    "Id": 21,
+    "Placa": "NFN5157"
+  },
+  {
+    "Id": 22,
+    "Placa": "GYN0000"
+  },
+  {
+    "Id": 23,
+    "Placa": "AKC2C85"
+  },
+  {
+    "Id": 24,
+    "Placa": "GWI9566"
+  },
+  {
+    "Id": 25,
+    "Placa": "JFT1912"
+  },
+  {
+    "Id": 26,
+    "Placa": "NFI3050"
+  },
+  {
+    "Id": 27,
+    "Placa": "ALB1791"
+  },
+  {
+    "Id": 28,
+    "Placa": "MVW3F54"
+  },
+  {
+    "Id": 29,
+    "Placa": "LBW5311"
+  },
+  {
+    "Id": 30,
+    "Placa": "KZS5F68"
+  },
+  {
+    "Id": 31,
+    "Placa": "GXH6728"
+  },
+  {
+    "Id": 32,
+    "Placa": "JKH4765"
+  },
+  {
+    "Id": 33,
+    "Placa": "HBQ1471"
+  },
+  {
+    "Id": 34,
+    "Placa": "DTA8E53"
+  },
+  {
+    "Id": 35,
+    "Placa": "GZV2J60"
+  },
+  {
+    "Id": 36,
+    "Placa": "EEN4E78"
+  },
+  {
+    "Id": 37,
+    "Placa": "NLT5029"
+  },
+  {
+    "Id": 38,
+    "Placa": "NLS6J79"
+  },
+  {
+    "Id": 39,
+    "Placa": "HIG6D12"
+  },
+  {
+    "Id": 40,
+    "Placa": "EPH9877"
+  },
+  {
+    "Id": 41,
+    "Placa": "NVW0718"
+  },
+  {
+    "Id": 42,
+    "Placa": "NVO3283"
+  },
+  {
+    "Id": 43,
+    "Placa": "NLA5049"
+  },
+  {
+    "Id": 44,
+    "Placa": "NVY0184"
+  },
+  {
+    "Id": 45,
+    "Placa": "EPG0026"
+  },
+  {
+    "Id": 46,
+    "Placa": "NRS1E28"
+  },
+  {
+    "Id": 47,
+    "Placa": "PLP0000"
+  },
+  {
+    "Id": 48,
+    "Placa": "PRN0000"
+  },
+  {
+    "Id": 49,
+    "Placa": "HFB2619"
+  },
+  {
+    "Id": 50,
+    "Placa": "FSY7B09"
+  },
+  {
+    "Id": 51,
+    "Placa": "FSA8B11"
+  },
+  {
+    "Id": 52,
+    "Placa": "OQR4D20"
+  },
+  {
+    "Id": 53,
+    "Placa": "UBA1234"
+  },
+  {
+    "Id": 54,
+    "Placa": "QSI4A67"
+  },
+  {
+    "Id": 55,
+    "Placa": "DPF2A81"
+  },
+  {
+    "Id": 56,
+    "Placa": "QXC4560"
+  },
+  {
+    "Id": 57,
+    "Placa": "PWZ8F81"
+  },
+  {
+    "Id": 58,
+    "Placa": "HKA6J19"
+  },
+  {
+    "Id": 59,
+    "Placa": "KBQ2164"
+  },
+  {
+    "Id": 60,
+    "Placa": "KBG2164"
+  },
+  {
+    "Id": 61,
+    "Placa": "KCK5J20"
+  },
+  {
+    "Id": 62,
+    "Placa": "BTA4035"
+  },
+  {
+    "Id": 63,
+    "Placa": "KCW3780"
+  },
+  {
+    "Id": 64,
+    "Placa": "GPA4793"
+  },
+  {
+    "Id": 65,
+    "Placa": "KBP6636"
+  },
+  {
+    "Id": 66,
+    "Placa": "GRP6321"
+  },
+  {
+    "Id": 67,
+    "Placa": "GPT1656"
+  },
+  {
+    "Id": 68,
+    "Placa": "ACP9271"
+  },
+  {
+    "Id": 69,
+    "Placa": "BYF2180"
+  },
+  {
+    "Id": 70,
+    "Placa": "KJA7605"
+  },
+  {
+    "Id": 71,
+    "Placa": "CTU9113"
+  },
+  {
+    "Id": 72,
+    "Placa": "HOM6D50"
+  },
+  {
+    "Id": 73,
+    "Placa": "BXC8555"
+  },
+  {
+    "Id": 74,
+    "Placa": "GXM2880"
+  },
+  {
+    "Id": 75,
+    "Placa": "GRE6247"
+  },
+  {
+    "Id": 76,
+    "Placa": "CLU1907"
+  },
+  {
+    "Id": 77,
+    "Placa": "CXE0703"
+  },
+  {
+    "Id": 78,
+    "Placa": "KBW5106"
+  },
+  {
+    "Id": 79,
+    "Placa": "LJS9350"
+  },
+  {
+    "Id": 80,
+    "Placa": "BIE1434"
+  },
+  {
+    "Id": 81,
+    "Placa": "GRA4201"
+  },
+  {
+    "Id": 82,
+    "Placa": "GRB0891"
+  },
+  {
+    "Id": 83,
+    "Placa": "MPM6393"
+  },
+  {
+    "Id": 84,
+    "Placa": "GRM6396"
+  },
+  {
+    "Id": 85,
+    "Placa": "KDT9272"
+  },
+  {
+    "Id": 86,
+    "Placa": "GSV8478"
+  },
+  {
+    "Id": 87,
+    "Placa": "ELW8957"
+  },
+  {
+    "Id": 88,
+    "Placa": "QUY6B34"
+  },
+  {
+    "Id": 89,
+    "Placa": "FJX2J35"
+  },
+  {
+    "Id": 90,
+    "Placa": "DLP1210"
+  },
+  {
+    "Id": 91,
+    "Placa": "OGZ7660"
+  },
+  {
+    "Id": 92,
+    "Placa": "CQH0779"
+  },
+  {
+    "Id": 93,
+    "Placa": "NTP3C91"
+  },
+  {
+    "Id": 94,
+    "Placa": "CDQ6E93"
+  },
+  {
+    "Id": 95,
+    "Placa": "KMS9177"
+  },
+  {
+    "Id": 96,
+    "Placa": "DVT8G11"
+  },
+  {
+    "Id": 97,
+    "Placa": "GVQ8752"
+  },
+  {
+    "Id": 98,
+    "Placa": "CVP6D11"
+  },
+  {
+    "Id": 99,
+    "Placa": "DPB8E27"
+  },
+  {
+    "Id": 100,
+    "Placa": "HCJ9751"
+  },
+  {
+    "Id": 101,
+    "Placa": "IYX1F10"
+  },
+  {
+    "Id": 102,
+    "Placa": "GLA1471"
+  },
+  {
+    "Id": 103,
+    "Placa": "PVK6C69"
+  },
+  {
+    "Id": 104,
+    "Placa": "QNN8H62"
+  },
+  {
+    "Id": 105,
+    "Placa": "RNQ8G22"
+  },
+  {
+    "Id": 106,
+    "Placa": "OWR2F89"
+  },
+  {
+    "Id": 107,
+    "Placa": "IKD8D94"
+  },
+  {
+    "Id": 108,
+    "Placa": "NEQ9950"
+  },
+  {
+    "Id": 109,
+    "Placa": "GWI8116"
+  },
+  {
+    "Id": 110,
+    "Placa": "CMW8D61"
+  },
+  {
+    "Id": 111,
+    "Placa": "DPN4461"
+  },
+  {
+    "Id": 112,
+    "Placa": "DBM9I34"
+  },
+  {
+    "Id": 113,
+    "Placa": "HBG6538"
+  },
+  {
+    "Id": 114,
+    "Placa": "DNA8121"
+  },
+  {
+    "Id": 115,
+    "Placa": "GSW0A56"
+  },
+  {
+    "Id": 116,
+    "Placa": "KAI9143"
+  },
+  {
+    "Id": 117,
+    "Placa": "DPE0768"
+  },
+  {
+    "Id": 118,
+    "Placa": "HHK5H72"
+  },
+  {
+    "Id": 119,
+    "Placa": "NKS8J54"
+  },
+  {
+    "Id": 120,
+    "Placa": "HHK1G12"
+  },
+  {
+    "Id": 121,
+    "Placa": "NYH7930"
+  },
+  {
+    "Id": 122,
+    "Placa": "NVT4A35"
+  },
+  {
+    "Id": 123,
+    "Placa": "ERL6792"
+  },
+  {
+    "Id": 124,
+    "Placa": "JIG5B97"
+  },
+  {
+    "Id": 125,
+    "Placa": "HEO7G51"
+  },
+  {
+    "Id": 126,
+    "Placa": "OGO0260"
+  },
+  {
+    "Id": 127,
+    "Placa": "LMA1H54"
+  },
+  {
+    "Id": 128,
+    "Placa": "OQV3A43"
+  },
+  {
+    "Id": 129,
+    "Placa": "OWR7644"
+  },
+  {
+    "Id": 130,
+    "Placa": "FTM2J98"
+  },
+  {
+    "Id": 131,
+    "Placa": "FFS1641"
+  },
+  {
+    "Id": 132,
+    "Placa": "RAO0000"
+  },
+  {
+    "Id": 133,
+    "Placa": "OQP2G28"
+  },
+  {
+    "Id": 134,
+    "Placa": "KYG6033"
+  },
+  {
+    "Id": 135,
+    "Placa": "OWI6H11"
+  },
+  {
+    "Id": 136,
+    "Placa": "PDH6J43"
+  },
+  {
+    "Id": 137,
+    "Placa": "PVO5J40"
+  },
+  {
+    "Id": 138,
+    "Placa": "OOA6B66"
+  },
+  {
+    "Id": 139,
+    "Placa": "FCA4B10"
+  },
+  {
+    "Id": 140,
+    "Placa": "FWS7335"
+  },
+  {
+    "Id": 141,
+    "Placa": "RFL4G15"
+  },
+  {
+    "Id": 142,
+    "Placa": "KBO8725"
+  },
+  {
+    "Id": 143,
+    "Placa": "CHZ5J05"
+  },
+  {
+    "Id": 144,
+    "Placa": "BWP3442"
+  },
+  {
+    "Id": 145,
+    "Placa": "GVK8194"
+  },
+  {
+    "Id": 146,
+    "Placa": "BWD1622"
+  },
+  {
+    "Id": 147,
+    "Placa": "KCR7H42"
+  },
+  {
+    "Id": 148,
+    "Placa": "DAK2351"
+  },
+  {
+    "Id": 149,
+    "Placa": "ACK0275"
+  },
+  {
+    "Id": 150,
+    "Placa": "KCD4088"
+  },
+  {
+    "Id": 151,
+    "Placa": "GQF1620"
+  },
+  {
+    "Id": 152,
+    "Placa": "KBW7130"
+  },
+  {
+    "Id": 153,
+    "Placa": "KCB0I56"
+  },
+  {
+    "Id": 154,
+    "Placa": "CPL1077"
+  },
+  {
+    "Id": 155,
+    "Placa": "GPU0630"
+  },
+  {
+    "Id": 156,
+    "Placa": "PTM0000"
+  },
+  {
+    "Id": 157,
+    "Placa": "CDQ6493"
+  },
+  {
+    "Id": 158,
+    "Placa": "CDF9686"
+  },
+  {
+    "Id": 159,
+    "Placa": "GRV4447"
+  },
+  {
+    "Id": 160,
+    "Placa": "CDL3151"
+  },
+  {
+    "Id": 161,
+    "Placa": "GLA8717"
+  },
+  {
+    "Id": 162,
+    "Placa": "GUI8118"
+  },
+  {
+    "Id": 163,
+    "Placa": "KGE0622"
+  },
+  {
+    "Id": 164,
+    "Placa": "KDC4155"
+  },
+  {
+    "Id": 165,
+    "Placa": "QPV5B44"
+  },
+  {
+    "Id": 166,
+    "Placa": "RMG5G04"
+  },
+  {
+    "Id": 167,
+    "Placa": "HMG4F36"
+  },
+  {
+    "Id": 168,
+    "Placa": "NGC9F16"
+  },
+  {
+    "Id": 169,
+    "Placa": "EXI0309"
+  },
+  {
+    "Id": 170,
+    "Placa": "OMD5F28"
+  },
+  {
+    "Id": 171,
+    "Placa": "FMN0B21"
+  },
+  {
+    "Id": 172,
+    "Placa": "PXB5597"
+  },
+  {
+    "Id": 173,
+    "Placa": "SIV6J46"
+  },
+  {
+    "Id": 174,
+    "Placa": "GTP6010"
+  },
+  {
+    "Id": 175,
+    "Placa": "KDT7F42"
+  },
+  {
+    "Id": 176,
+    "Placa": "PRNOOOO"
+  },
+  {
+    "Id": 177,
+    "Placa": "EZU4A24"
+  },
+  {
+    "Id": 178,
+    "Placa": "EQB0J12"
+  },
+  {
+    "Id": 179,
+    "Placa": "OGH8B12"
+  },
+  {
+    "Id": 180,
+    "Placa": "GVH0855"
+  },
+  {
+    "Id": 181,
+    "Placa": "ARMAZEM"
+  },
+  {
+    "Id": 182,
+    "Placa": "UNI0000"
+  },
+  {
+    "Id": 183,
+    "Placa": "GRP9565"
+  },
+  {
+    "Id": 184,
+    "Placa": "HAR1476"
+  },
+  {
+    "Id": 185,
+    "Placa": "GWI7H03"
+  }
+]
